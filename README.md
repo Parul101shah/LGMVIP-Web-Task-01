@@ -1,17 +1,17 @@
 # LGMVIP-Web-Task-01
-LGMVIP Task Number 1 (TO-DO-LIST)
-📝 Todo List Web App
-This is a simple Todo List web app built using HTML, CSS, and JavaScript. It allows users to manage and keep track of their tasks in a convenient way.
+LGMVIP Task Number 1 (TO-DO-LIST)<br>
+📝 Todo List Web App<br>
+This is a simple Todo List web app built using HTML, CSS, and JavaScript. It allows users to manage and keep track of their tasks in a convenient way.<br>
 
 # Features
-✅ Add new tasks to the list
-✅ Mark tasks as completed
-🔄 Store tasks in the browser's local storage for data persistence
+✅ Add new tasks to the list<br>
+✅ Mark tasks as completed<br>
+🔄 Store tasks in the browser's local storage for data persistence<br>
 
-# Technologies Used
-*HTML: Used for the structure and layout of the web app.
-*CSS: Used for styling and design.
-*JavaScript: Used for the interactive features and logic of the app.
+# Technologies Used<br>
+HTML: Used for the structure and layout of the web app.<br>
+CSS: is used for styling and design.<br>
+JavaScript: Used for the interactive features and logic of the app.<br>
 
 
 # Contributing
