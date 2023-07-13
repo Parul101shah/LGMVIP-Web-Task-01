@@ -16,3 +16,6 @@ JavaScript: Used for the interactive features and logic of the app.<br>
 
 # Contributing
 Contributions are welcome! If you find any issues or want to add new features, feel free to open a pull request.
+
+#Deploy 
+link: https://delightful-pegasus-b7c011.netlify.app/
